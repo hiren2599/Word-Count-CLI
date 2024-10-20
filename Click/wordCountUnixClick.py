@@ -1,6 +1,0 @@
-
-def startUnixTerminal():
-    pass
-
-
-startUnixTerminal()
