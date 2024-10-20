@@ -1,5 +1,5 @@
 import click
-from Utility.wordCountUtils import wordCountFunctionality
+from wordCountUtils import wordCountFunctionality
 
 @click.command()
 @click.argument("filename")
